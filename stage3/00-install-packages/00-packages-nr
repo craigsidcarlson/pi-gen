@@ -4,4 +4,6 @@ lxde lxtask menu-xdg
 zenity xdg-utils
 gvfs-backends gvfs-fuse
 lightdm gnome-themes-standard-data gnome-icon-theme
+python3-pip
+python3-setuptools
 python3-distutils

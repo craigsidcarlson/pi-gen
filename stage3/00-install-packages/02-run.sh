@@ -1,4 +1,5 @@
 #!/bin/bash -e
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 
 wget https://github.com/baronbrew/aioblescan/archive/master.zip
 unzip master.zip
